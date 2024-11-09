@@ -12,8 +12,6 @@
 * Kubeflow Pipelines is not GCP-native and may require additional setup for seamless integration with Vertex AI.
 * Jenkins Pipelines is more suited for traditional software builds and may not directly address model retraining triggered by data changes.
 
-* 
-* 
 ## Links
 * [vertex-ai-overview](https://cloud.google.com/vertex-ai/docs/start/introduction-unified-platform)
 * [introduction-mlops-vertexai](https://cloud.google.com/vertex-ai/docs/start/introduction-mlops)
